@@ -1,17 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nabla&family=Sedgwick+Ave+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nabla&family=Sedgwick+Ave+Display&display=swap');
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    border: none;
     outline: 0;
     scroll-behavior: smooth;
-    font-family: 'poppins', sans-serif;
+    font-family: 'poopins' , sans-serif;
 }
-
 :root {
     --bg-color: #f1eeee;
     --secondbg-color: #323946;
@@ -27,13 +25,13 @@
 }
 
 html {
-    font-size: 65.5%;
+    font-size: 62.5%;
     overflow-x: hidden;
 }
 
 section {
-    min-height: 100vh;
-    padding: 13rem 9% 2rem;
+    min-height: 10vh;
+    padding: 10rem 9% 9rem;
 }
 
 body {
@@ -41,16 +39,19 @@ body {
     color: var(--text-color);
 }
 
-.header {
+.header{
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
+    padding: 2rem 9%;
     background: var(--secondbg-color);
-    justify-content: space-between;
-    align-items: center;
     display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: center;
     z-index: 100;
+    border-bottom: solid 1px var(--main-color);
 
 }
 
