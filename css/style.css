@@ -166,6 +166,9 @@ span {
     color: var(--secondbg-color);
     box-shadow: 0 0 1rem var(--main-color);
 }
+.school {
+    width: 30vh;
+}
 
 .btn {
     display: inline-block;
