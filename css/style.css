@@ -44,7 +44,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 1rem 9%;
+    padding: 2rem 9%;
     background: var(--secondbg-color);
     display: flex;
     justify-content: space-between;
@@ -56,14 +56,10 @@ body {
 }
 
 .logo {
-    font-size: 3.5rem;
+     font-size: 2.5rem;
     color: var(--main-color);
     font-weight: 600;
     cursor: default;
-    margin-left: 3rem;
-    margin-bottom: 1rem;
-    padding-top: 1rem;
-
 
 }
 
