@@ -69,7 +69,7 @@ body {
 
 .navbar a {
     font-size: 1.7rem;
-    color: var(--bg-color);
+    color: var(--secondbg-color);
     margin-left: 1rem ;
     margin-right: 3rem;
     transition: .3s;
