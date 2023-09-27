@@ -87,6 +87,7 @@ body {
     font-size: 3.6rem;
     color: var(--text-color);
     display: none;
+    padding-left: 3rem;
 }
 
 .home {
@@ -477,7 +478,7 @@ span {
         top: 100%;
         left: 0;
         width: 100%;
-        padding: 1rem 3%;
+        padding: 3rem 3%;
         background: black;
         border-top: .1rem solid rgba (0, 0, 0, .2);
         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
