@@ -459,7 +459,7 @@ span {
     .footer {
         padding: 2rem 3%;
     }
-    .services{
+    .service{
      padding-bottom: 7rem;   
     }
     .portofolio{
@@ -479,7 +479,7 @@ span {
         left: 0;
         width: 100%;
         padding: 3rem 3%;
-        background: black;
+        background: green;
         border-top: .1rem solid rgba (0, 0, 0, .2);
         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
         display: none;
