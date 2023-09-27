@@ -87,6 +87,6 @@ const typed = new Typed('.multiple-text',{
 
 
 ScrollReveal().reveal('.home-content,.heading,', { origin: 'top' });
-ScrollReveal().reveal('.home-img,.service-container,.portofolio-box,.contact form', { origin: 'top' });
+ScrollReveal().reveal('.home-img,.service-container,.,.contact form', { origin: 'top' });
 ScrollReveal().reveal('.home-content h1,.about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p,.about-content', { origin: 'right' });
