@@ -38,7 +38,9 @@ body {
     background: var(--bg-color);
     color: var(--text-color);
 }
-
+.home-img .about-img img{
+     border: 5px solid #555;
+}
 .header{
     position: fixed;
     top: 0;
