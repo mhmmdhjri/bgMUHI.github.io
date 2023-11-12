@@ -89,7 +89,7 @@ body {
     font-size: 3.6rem;
     color: var(--bg-color);
     display: none;
-    margin-right: 4rem;
+    margin-right: 10rem;
 }
 
 
@@ -98,6 +98,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
 }
 
 .home-content h3 {
